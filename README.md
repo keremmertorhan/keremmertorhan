@@ -17,5 +17,5 @@ Welcome to my GitHub! I am a passionate Computer Science student focused on buil
 
 ### 📫 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/keremmertorhan17@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kerem.mertorhan17@gmail.com)
+[![Gmail](https://img.shields.io/badge/kerem.mertorhan17@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kerem.mertorhan17@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Kerem_Mert_Orhan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerem-mert-orhan-ab76a02a6/)
